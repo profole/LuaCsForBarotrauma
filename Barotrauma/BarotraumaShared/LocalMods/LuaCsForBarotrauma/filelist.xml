@@ -3,4 +3,5 @@
   <Text file="%ModDir%/Texts/English.xml"/>
   <UIStyle file="%ModDir%/Style.xml" />
   <!--<Text file="%ModDir%/Texts/Portuguese.xml"/>-->
+  <!--<Text file="%ModDir%/Texts/German.xml"/>-->
 </contentpackage>
