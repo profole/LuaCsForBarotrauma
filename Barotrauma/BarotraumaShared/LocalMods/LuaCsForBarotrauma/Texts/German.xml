@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="German" nowhitespace="false" translatedname="Deutsch">
+  <LuaCsForBarotrauma.SettingsMenu.ModControlsButton>Mod Steuerung Einstellungen</LuaCsForBarotrauma.SettingsMenu.ModControlsButton>
+  <LuaCsForBarotrauma.SettingsMenu.ModGameplayButton>Mod Gameplay Einstellungen</LuaCsForBarotrauma.SettingsMenu.ModGameplayButton>
+  <LuaCsForBarotrauma.SettingsMenu.ResetVisibleSettings>Angezeigte Einstellungen zurücksetzen</LuaCsForBarotrauma.SettingsMenu.ResetVisibleSettings>
+  <LuaCsForBarotrauma.SettingsMenu.ResetPrompt.Title>Sichbare Einstellungen zurücksetzen</LuaCsForBarotrauma.SettingsMenu.ResetPrompt.Title>
+  <LuaCsForBarotrauma.SettingsMenu.ResetPrompt.Message>Bist du sicher, dass du die Werte für die momentan angezeigten Einstellungen zurücksetzen möchtest?</LuaCsForBarotrauma.SettingsMenu.ResetPrompt.Message>
+  <LuaCsForBarotrauma.SettingsMenu.ResetPrompt.Yes>Ja</LuaCsForBarotrauma.SettingsMenu.ResetPrompt.Yes>
+  <LuaCsForBarotrauma.SettingsMenu.ResetPrompt.No>Nein</LuaCsForBarotrauma.SettingsMenu.ResetPrompt.No>
+  <!-- Settings -->
+  <!-- Is Cs Enabled-->
+  <LuaCsForBarotrauma.CsRunPolicy.DisplayName>Sind C# Mods erlaubt</LuaCsForBarotrauma.CsRunPolicy.DisplayName>
+  <LuaCsForBarotrauma.CsRunPolicy.Tooltip>Dürfen Skripte und dlls ohne Sandbox ausgeführt werden.</LuaCsForBarotrauma.CsRunPolicy.Tooltip>
+  <LuaCsForBarotrauma.CsRunPolicy.DisplayCategory>Allgemein</LuaCsForBarotrauma.CsRunPolicy.DisplayCategory>
+  <!-- Use Caching -->
+  <LuaCsForBarotrauma.UseCaching.DisplayName>Nutze Pre-Caching</LuaCsForBarotrauma.UseCaching.DisplayName>
+  <LuaCsForBarotrauma.UseCaching.Tooltip>Sollten Moddateien vorgeladen werden um Ladezeiten zu verringern. Sollte nur deaktiviert werden, wenn du Mods benutzt welche Probleme mit dieser Einstellung haben.</LuaCsForBarotrauma.UseCaching.Tooltip>
+  <LuaCsForBarotrauma.UseCaching.DisplayCategory>General</LuaCsForBarotrauma.UseCaching.DisplayCategory>
+  <!-- Hide Usernames In Logs-->
+  <LuaCsForBarotrauma.HideUserNamesInLogs.DisplayName>Lokalen Betriesbssystemnenutzernamen in Logs verstecken</LuaCsForBarotrauma.HideUserNamesInLogs.DisplayName>
+  <LuaCsForBarotrauma.HideUserNamesInLogs.Tooltip>Falls aktiviert wird der lokale Betriesbssystemnenutzername in Pfaden in Logs mit 'USERNAME' ersetzt.</LuaCsForBarotrauma.HideUserNamesInLogs.Tooltip>
+  <LuaCsForBarotrauma.HideUserNamesInLogs.DisplayCategory>Allgemein</LuaCsForBarotrauma.HideUserNamesInLogs.DisplayCategory>
+</infotexts>
